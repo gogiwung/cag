@@ -41,4 +41,4 @@ This is a Streamlit application that allows users to upload PDF documents and as
 
 ## Note
 
-Make sure to replace `your_api_key_here` in the `.env` file with your actual OpenAI API key before running the application. 
+Make sure to replace `your_api_key_here` in the `.env` file with your actual OpenAI API key before running the application.
