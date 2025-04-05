@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Q&A Service
 
 This is a Streamlit application that allows users to upload PDF documents and ask questions about their content. The application uses OpenAI's GPT-4 model to process the PDFs and provide accurate answers to user queries.
@@ -41,4 +42,7 @@ This is a Streamlit application that allows users to upload PDF documents and as
 
 ## Note
 
-Make sure to replace `your_api_key_here` in the `.env` file with your actual OpenAI API key before running the application.
+Make sure to replace `your_api_key_here` in the `.env` file with your actual OpenAI API key before running the application. 
+=======
+# cag
+>>>>>>> 816bd4b76d487cc0f4b55e10b2c9830fedea696d

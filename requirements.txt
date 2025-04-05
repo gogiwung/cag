@@ -5,3 +5,4 @@ langchain-community==0.0.16
 python-dotenv>=1.0.0
 pypdf>=3.0.0
 faiss-cpu>=1.7.4
+tiktoken>=0.5.1
